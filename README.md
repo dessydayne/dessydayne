@@ -1,7 +1,7 @@
 - 👋 Hi, you can call me @dessydayne
 - 👀 I’m interested in Software and Product Development
 - 🌱 I’m currently learning ReactJs for Frontend dev and Figma for Design
-- 💞️ I’m looking to collaborate on a long term project with a committed team to 
+- 💞️ I am eternally enthused by the idea of working on an exciting long term project with a committed team  
 - 📫 How to reach me ... dessydayne@gmail.com
 
 <!---

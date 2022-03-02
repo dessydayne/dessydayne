@@ -1,6 +1,6 @@
 - 👋 Hi, you can call me @dessydayne
 - 👀 I’m interested in Software and Product Development
-- 🌱 I’m currently learning ReactJs for Frontend dev and Figma for Design
+- 🌱 I have played around with Django in the past, the current instance require me to learn and use Figma for Design
 - 💞️ I am eternally enthused by the idea of working on an exciting long term project with a committed team  
 - 📫 How to reach me ... dessydayne@gmail.com
 
